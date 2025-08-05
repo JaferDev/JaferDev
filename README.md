@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JaferDev
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning Computer Science in Class 12
+- 🌱 I’m going to start my first year in university
 - 💞️ I’m looking to collaborate on my projects and games
-- 📫 How to reach me jaferhussain234@gmail.com
+- 📫 How to reach me jaferhussain323@gmail.com
 - 😄 Pronouns: he/him
 <!---
 JaferDev/JaferDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
