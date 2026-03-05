@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JaferDev
 - 👀 I’m interested in Game Development 
-- 🌱 I’m going to start my first year in university
+- 🌱 I’m in my first year of university
 - 💞️ I’m looking to collaborate on my projects and games
 - 📫 How to reach me jaferhussain323@gmail.com
 - 😄 Pronouns: he/him
